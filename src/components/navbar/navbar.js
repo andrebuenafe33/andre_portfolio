@@ -1,13 +1,13 @@
 import React from 'react';
 import './navbar.css';
-import logo from '../../assets/Books.ico';
+import logo from '../../assets/ajb-logo2.png';
 import { Link } from 'react-scroll';
 import contactMeImg from '../../assets/contactMe.jpg';
 
 function Navbar() {
   return (
     <nav className="navbar">
-        <img src={logo} alt="Logo" className="Logo" />
+        <img src={logo} alt="Logo" className="logo" />
         <div className="desktopMenu">
             <Link className="desktopMenuListItem">Home</Link>
             <Link className="desktopMenuListItem">About</Link>
