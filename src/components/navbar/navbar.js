@@ -4,7 +4,7 @@ import logo from '../../assets/ajb-logo2.png';
 import { Link } from 'react-scroll';
 import contactMeImg from '../../assets/contactMe.jpg';
 
-function Navbar() {
+const Navbar = () => {
   return (
     <nav className="navbar">
         <img src={logo} alt="Logo" className="logo" />
@@ -15,10 +15,10 @@ function Navbar() {
             <Link className="desktopMenuListItem">Clients</Link>
         </div>
         <button className="desktopMenuBtn">
-            <img src={contactMeImg} alt="" className="desktopMenuImg" />Contact Me
+            <img src={contactMeImg} alt="Contact Me" className="desktopMenuImg" />Contact Me
         </button>
     </nav>
   )
 }
 
-export default Navbar
+export default Navbar;

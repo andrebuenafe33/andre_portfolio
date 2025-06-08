@@ -3,7 +3,8 @@ import './intro.css';
 import Image from '../../assets/Andre.png';
 import { Link } from 'react-scroll';
 import btnImg from '../../assets/hireme.jpg';
-function Intro() {
+
+const Intro = () => {
   return (
     <section id="intro">
       <div className="content">
@@ -17,4 +18,4 @@ function Intro() {
   )
 }
 
-export default Intro
+export default Intro;
