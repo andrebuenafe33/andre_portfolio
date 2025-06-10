@@ -35,13 +35,13 @@
 .worksImg1 {
     object-fit: cover;
     border-radius: 5%;
-    height: 20rem;
+    height: 15rem;
     margin: 0.5rem;
 }
 
 .worksImg {
     object-fit: cover;
-    height: 20rem;
+    height: 17rem;
     margin: 0.5rem;
 }
 
