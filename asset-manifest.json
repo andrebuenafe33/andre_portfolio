@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/andre_portfolio/static/css/main.568b6b54.css",
+    "main.js": "/andre_portfolio/static/js/main.2d8f4d4c.js",
+    "static/media/Andre.png": "/andre_portfolio/static/media/Andre.6795328b0a5724a65c92.png",
+    "static/media/achievement.png": "/andre_portfolio/static/media/achievement.dc31cdd08d0f4dbf4d09.png",
+    "static/media/book.jpg": "/andre_portfolio/static/media/book.ecc9e422f75bca952a6d.jpg",
+    "static/media/hireme.jpg": "/andre_portfolio/static/media/hireme.e242be592c6764949268.jpg",
+    "static/media/web-development02.png": "/andre_portfolio/static/media/web-development02.ece7ad0ddc6931661a16.png",
+    "static/media/responsive-web-interface2.png": "/andre_portfolio/static/media/responsive-web-interface2.0fd94cd052b0f81b1dd8.png",
+    "static/media/web-security.png": "/andre_portfolio/static/media/web-security.cb14de8dc9f75cb0cfe6.png",
+    "static/media/contactMe.jpg": "/andre_portfolio/static/media/contactMe.b67f614b4ead70efdfc1.jpg",
+    "static/media/github.png": "/andre_portfolio/static/media/github.26e3235a25e972bf3778.png",
+    "static/media/instagram.jpg": "/andre_portfolio/static/media/instagram.b6549f728809bffac62c.jpg",
+    "static/media/burgerMenu.png": "/andre_portfolio/static/media/burgerMenu.727c092d9d4d3e29a2c2.png",
+    "static/media/portfolioImg.png": "/andre_portfolio/static/media/portfolioImg.93108f45b5af712a562a.png",
+    "static/media/facebook.jpg": "/andre_portfolio/static/media/facebook.ccc991f290e3e41833a1.jpg",
+    "index.html": "/andre_portfolio/index.html",
+    "main.568b6b54.css.map": "/andre_portfolio/static/css/main.568b6b54.css.map",
+    "main.2d8f4d4c.js.map": "/andre_portfolio/static/js/main.2d8f4d4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.568b6b54.css",
+    "static/js/main.2d8f4d4c.js"
+  ]
+}
