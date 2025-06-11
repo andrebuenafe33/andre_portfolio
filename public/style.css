@@ -5,6 +5,7 @@
     text-decoration: none;
     background: transparent;
     font-family: 'Quicksand', sans-serif;
+    scroll-behavior: smooth;
 }
 
 body {

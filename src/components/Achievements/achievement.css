@@ -42,7 +42,7 @@
 .contactDescription {
     padding: 1rem;
     font-size: medium;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .contactForm {
@@ -102,5 +102,4 @@
     width: 3rem;
     margin: 0 0.75rem;
 }
-
 
